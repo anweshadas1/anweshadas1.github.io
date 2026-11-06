@@ -1,0 +1,3 @@
+- Summer 2026: [Disagreement in NLP](https://www.uni-saarland.de/lehrstuhl/demberg/teaching/ss26-disagreement-in-nlp.html)
+- Winter 2025/26: Adaptive User Interfaces for Mixed Reality, practical block seminar
+- Summer 2025: [Statistics Lab](https://cms.sic.saarland/statslab25/), teaching assistant

@@ -1,0 +1,8 @@
+- June 2026: Attended the [Symposium on Explainable AI, MPI-INF, Saarbrücken](https://docs.google.com/document/d/1yXaUwFzywdlOwNTJwRntYUjmuMKERZGwBllvcyXIlfk/edit?tab=t.0)
+- May 2026: Presented our [Planning Ahead with RSA paper](publications.html#planning-ahead) at AAMAS 2026, Cyprus. It won the [Best Student Paper Award](https://cyprusconferences.org/aamas2026/awards/) 🎉!
+- December 2025: Our work on [dynamic-RSA, combining AI Planning with Pragmatics](publications.html#planning-ahead) has been accepted at [AAMAS 2026](https://cyprusconferences.org/aamas2026/)!
+- June 2025: Attended the [CIX Summer School](https://www.isir.upmc.fr/news/9th-summer-school-on-computational-interaction-2025/?lang=en) at Sorbonne Université, Paris.
+- August 2024: Finished my Master's in Data Science and AI at Saarland University.
+- June 2024: Presented our [HCEye paper](publications.html#hceye) at [ETRA 2024, Glasgow](https://etra.acm.org/2024/).
+- May 2024: Joined as a PhD student in [Prof. Vera Demberg's group](https://www.uni-saarland.de/lehrstuhl/demberg.html).
+- January 2024: Our work on [allocation of cognitive resources in complex UIs](publications.html#hceye) has been accepted at [ETRA 2024, Glasgow](https://etra.acm.org/2024/)!

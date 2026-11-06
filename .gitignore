@@ -1,0 +1,8 @@
+notes/
+originals/
+*.draft.md
+*.psd
+*.ai
+.DS_Store
+Thumbs.db
+__pycache__/
