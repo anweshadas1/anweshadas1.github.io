@@ -184,6 +184,7 @@ h2{
   background:var(--splash);color:var(--on-splash);font:600 .95rem/1.75rem var(--display);text-align:center;
 }
 .questions li b{color:var(--accent2)}
+.num{display:inline-block;width:1.5em;height:1.5em;margin-right:.15em;border-radius:50%;background:var(--splash);color:var(--on-splash);font:600 .75em/1.5em var(--display);text-align:center;vertical-align:.1em}
 
 .asides{margin-top:1.4rem}
 details.aside{border-top:1px solid var(--rule)}
